@@ -5,7 +5,7 @@ This project has been made in partnership with <a href="https://github.com/ender
 
 We came up with this calculator at a course we were taking together. We had approximately two days to learn the basics of web development and create this application. 
 
-## interface and use
+## interface & use
 
 ![Captura de tela 2024-03-08 134404](https://github.com/realBruno/bincalc/assets/123336000/257d35b8-bd96-46fe-ba6b-c2983b3bac4d)
 
