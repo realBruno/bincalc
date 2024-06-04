@@ -10,5 +10,5 @@ As you open the link that can be found on the right side of this page, you will 
 
 You can go ahead and insert in the field "BINARY" any sequence in this number system. After doing so, pressing the button "Convert" will make the results show up.
 
-## updates
+## update (jun. 2024)
 I am working on a new version of this project, one with a cleaner UI in order to bring to the user a better experience.
