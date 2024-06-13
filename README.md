@@ -1,7 +1,7 @@
 # bincalc
 
 ## creators & about
-This project was made in partnership with <a href="https://github.com/enderzerobl">David Moura</a>, my classmate in college. He was responsible for the JavaScript code, which brought functionality and dynamism to the calculator.
+This project was made in partnership with <a href="https://github.com/enderzerobl">David Moura</a>, my classmate in college. He was responsible for the JavaScript code, which brought to it functionality and dynamism.
 
 We came up with this calculator at a course we were taking together. We had approximately two days to learn the basics of web development and create this application. 
 
